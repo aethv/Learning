@@ -15,3 +15,10 @@ I've written a complete tutorial series for this application on The CalliCoder B
 + [Part 3: Building Rest APIs for creating Polls, voting for a choice in a Poll, retrieving user profile etc](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-3/)
 
 + [Part 4: Building the front-end using React and Ant Design](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-4/)
+
+### Homework
+> Email verification: There is no email verification right now in our application. Anyone can register with a random email. Write the logic to send an email verification mail to newly registered users with a verification link and verify user’s email once he clicks on the link.
+
+> Edit Profile: Add an edit profile page where a user can change his name, username, email, and password.
+
+> Forgot Password: Add forgot password functionality in the app.
